@@ -1,0 +1,16 @@
+{
+    "bruteforce": {
+        "max_attempts": 5,
+        "window_minutes": 5
+    },
+
+    "unusual_login": {
+        "start_hour": 23,
+        "end_hour": 5
+    },
+
+    "suspicious_ips": [
+        "192.168.1.50",
+        "10.0.0.99"
+    ]
+}
